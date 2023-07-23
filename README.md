@@ -1,4 +1,4 @@
-﻿# Laporan Proyek Machine Learning - Muhammad Faturachman Atthaariq
+﻿# Laporan Proyek Machine Learning - Prediksi Stroke 
 
 ## Domain Proyek
 Stroke merupakan penyakit mematikan dengan tingkat mortalitas tinggi hingga saat ini. Di Amerika Serikat, 1 dari 6 kematian akibat penyakit kardiovaskular disebabkan oleh stroke di tahun 2021 dan setiap 3 menit dan 14 detik sekali, seseorang meninggal karena stroke[[1]](https://wonder.cdc.gov/mcd.html). Laporan oleh American Heart Association / AHA memaparkan banyak fakta yang lebih mengerikan, yaitu setiap 40 detik sekali, akan ada seseorang yang terkena stroke[[2]](https://pubmed.ncbi.nlm.nih.gov/36695182/). Setiap tahun, sekitar 795.000 orang menderita stroke, di mana hampir seperempat / 185.000 kasus yang dicatat diderita orang yang pernah menderita stroke juga sebelumnya, serta 610.000 kasus stroke lainnya merupakan kasus stroke baru / pertama kali[[2]](https://pubmed.ncbi.nlm.nih.gov/36695182/).
